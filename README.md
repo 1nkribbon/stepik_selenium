@@ -1,3 +1,3 @@
 # stepik_selenium
 Homework
-stepik12
+Здесь выложены несколько примеров задач с курса stepik "Автоматизация тестирования с помощью Selenium и Python"
